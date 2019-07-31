@@ -1,7 +1,7 @@
 # Account-System
 An account-system for websites to be able to have specialized users with securely stored passwords.
 
-The system is coded in php and the system uses mysql and phpmyadmin to store the passwords and usernames. 
+The system is coded in php and uses mysql and phpmyadmin to store the passwords and usernames. 
 I am using xampp to have a apache and mysql server. 
 
 Download xampp here: https://www.apachefriends.org/index.html
