@@ -1,7 +1,7 @@
 # Account-System
 An account-system for websites to be able to have specialized users with securely stored passwords.
 
-***Note to user: This code is not originally mine, it is just simply put on Github with the intended purpose of making it easier to compile and make the code.***
+***Note to user: This code is not originally mine, it is just simply put on Github with the intended purpose of making it easier to access for people.***
 
 The system is coded in php and uses mysql and phpmyadmin to store the passwords and usernames. 
 I am using xampp to have an apache and mysql server. 
